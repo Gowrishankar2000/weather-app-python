@@ -18,5 +18,5 @@ A simple Python script to fetch current weather information for any city using t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Gowrishankar2000/weather-app.git
 cd weather-app
